@@ -20,9 +20,12 @@ Welcome to the Number Guessing Game! This simple and fun game challenges you to 
 - Real-time feedback on your guesses.
 - Track the number of attempts it takes to guess the correct number.
 
-```bash
 # wanna customize / contribute?
+
 ## Clone the repository
+
+```bash
+
 git clone https://github.com/Parrurox/GuessTheNum.git
 
 ```
